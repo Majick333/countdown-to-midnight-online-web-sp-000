@@ -5,6 +5,5 @@ def countdown
     while seconds > 0
       puts "#{seconds} until midnight"
       seconds -= 1
-      if seconds == 0
-        puts "HAPPY NEW YEAR!"
 end
+
