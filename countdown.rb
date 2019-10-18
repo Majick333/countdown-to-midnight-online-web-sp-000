@@ -8,4 +8,4 @@ def countdown(seconds)
 end
 end
 
-return "HAPPY NEW YEAR!"
+puts "HAPPY NEW YEAR!"
