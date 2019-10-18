@@ -1,7 +1,7 @@
 #write your code here
+seconds = 20
 
 def countdown
-  seconds = 20
     while seconds > 1
       puts "#{seconds} until midnight"
       seconds -= 1
