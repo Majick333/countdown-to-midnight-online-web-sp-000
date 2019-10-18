@@ -6,4 +6,3 @@ def countdown
       puts "#{seconds} until midnight"
       seconds -= 1
 end
-
