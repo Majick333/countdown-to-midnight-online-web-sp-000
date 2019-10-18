@@ -13,6 +13,6 @@ puts "HAPPY NEW YEAR!"
 def countdown_with_sleep(countdown)
   while countdown < 0
     sleep(1)
-    
+
   end
 end
