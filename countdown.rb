@@ -1,5 +1,5 @@
 #write your code here
-seconds = 20
+seconds = 10
 
 def countdown(seconds)
     while seconds > 0
