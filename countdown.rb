@@ -9,11 +9,9 @@ def countdown(seconds)
   return "HAPPY NEW YEAR!"
 end
 
-#puts "HAPPY NEW YEAR!"
 
 def countdown_with_sleep(seconds)
-  until seconds < 0
-    #seconds.sleep(1)
+  until seconds < 0    
     seconds -= sleep(1)
 
   end
